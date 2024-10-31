@@ -1,4 +1,4 @@
-const users = [];
+const users = []; //atividade
 
 function addUser(id, name, active) {
   const user = { id, name, active };
